@@ -1,0 +1,20 @@
+# Binários compilados
+servidor
+cliente
+inspetor
+
+# Objetos
+*.o
+*.d
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# PDF do enunciado
+*.pdf
